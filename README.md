@@ -73,7 +73,7 @@ Mi forma de trabajar se basa en:
 
 ---
 
-### 🔹 Convierte Más — Frontend Developer
+### 🔹 Convierte Más — Frontend Engineer
 
 * Desarrollo de plataformas utilizadas por miles de usuarios
 * Implementación de autenticación, roles y control de acceso
@@ -84,7 +84,7 @@ Mi forma de trabajar se basa en:
 
 ## 🚀 Proyectos Destacados
 
-🔹 **Blu 2.0 - Diners**
+🔹 **[Blu 2.0 - Diners](https://www.dinersclub.com.ec/app-blu)**
 Aplicación con arquitectura modular, manejo de estado eficiente y optimización de rendimiento.
 
 🔹 **Vilma.ai**
