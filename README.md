@@ -87,10 +87,10 @@ Mi forma de trabajar se basa en:
 🔹 **[Blu 2.0 - Diners](https://www.dinersclub.com.ec/app-blu)**
 Aplicación con arquitectura modular, manejo de estado eficiente y optimización de rendimiento.
 
-🔹 **Vilma.ai**
+🔹 **[Vilma.ai](https://vilma.ai/)**
 Sistema con integración de APIs, manejo de formularios complejos y roles de usuario.
 
-🔹 **Reina de El Cisne Movilidad**
+🔹 **[Reina de El Cisne Movilidad](https://play.google.com/store/apps/details?id=com.movilidad.reinadeelcisne&hl=es)**
 
 * Tracking en tiempo real
 * Comunicación en tiempo real (chat)
